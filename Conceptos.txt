@@ -1,0 +1,168 @@
+
+Html
+
+1.Estructura base de HTML
+
+Rta:
+Doctype: 
+Html:
+Head: 
+meta  
+Title: 
+Link:
+Body: 
+Script: 
+
+
+2.Para qué sirve el doctype, y qué pasa si no le pongo el doctype?
+
+<deeper>
+
+3.¿Qué es web semántica? y cuales son las etiquetas relacionadas.
+
+
+4.¿Qué es accesibilidad? etiquetas relacionadas a esta.
+
+
+
+5.Que es el webstorage, (localstorage, sessionstorage, cookies) y sus diferencias
+
+Rta: Los webstorage nos permiten almacenar información en el navegador para añadir funcionalidades a nuestra app web.
+
+Sessionstorage: El sessionstorage nos permite acceder al objeto storage del navegar y guardar valores que podamos necesitar en nuestra app, sin embargo, estos datos serán almacenados mientras la pestaña está en uso, apenas es cerrada, estos datos se eliminan.
+
+Localstorage: el localstorage al igual que el sessionstorage, nos permite acceder al objeto storage, sin embargo, estos datos se mantienen incluso después de haber cerrado la pestaña del navegador.
+
+Cookies: Las cookies son un archivo pequeño que contiene información de las actividades de la navegación del usuario, estas cookies son enviadas desde el servidor.
+
+
+6.Que es el dom?
+
+
+7.Como modificar elementos del html a través del dom
+
+
+8.Cuales son los elementos multimedia en HTML ()
+
+
+etiquetas:
+
+<html>: indica el comienzo del documento HTML.
+<head>: indica que empieza la cabecera de la página. En ella se suele poner el título (<title>) de la web, una descripción y otras informaciones relacionadas con el contenido de la página.
+<body>: es el cuerpo de la página, donde va lo que se ve en el navegador al cargar una web. En el body van los textos, las imágenes y todos los contenidos de la web.
+<h1>, <h2>, etc.: son los títulos o encabezados. Se utilizan para establecer determinados textos de la página como titulares, suelen tener un tamaño de fuente mayor para diferenciarlos del resto del texto. Son importantes en el posicionamiento en buscadores.
+<a>: define los enlaces.
+<table>: es una tabla, y dentro de esta tenemos filas <tr> y celdas <td>.
+<p>: el texto dentro de esta etiqueta forma un párrafo.
+<img>: imágenes.
+<ul>: los textos dentro de esta etiqueta se estructuran en listas. Mediante el uso de <li> definimos cada guión dentro de la lista, y usando <ol> en lugar de <ul> tendremos listas ordenadas.
+<b> y <strong>: se utilizan para resaltar el texto.
+<u>: texto subrayado.
+<i> y <em>: texto en cursiva.
+
+
+---------------------------------------------------------------------------
+
+Css
+
+Introducción
+Carga de estilos CSS
+Selectores
+Comentarios
+Colores, valores
+Border
+Border en profundidad
+Unidades de medida
+Background
+Box model, margin, padding, overflow
+outline, text-align, text-decoration
+Display, max-width y position
+Float
+Centrar un elemento
+
+
+---------------------------------------------------------------------------
+
+JS
+
+01.variables.js = ya
+
+02.tiposDatos.js= ya
+
+03alcanceVariables.js = ya
+
+04.operadores.js = ya
+
+04concatenacion.js
+
+06.Arrays.js
+
+07.MetodosArrays.js
+
+08.MetodosStrings.js
+
+09.FuncionesMatematicas.js
+
+10.funciones.js
+
+11.Condicionales.js
+
+12.Bucles.js
+
+13.BreakContinueReturn.js
+
+14.eventos.js
+
+15.timers.js
+
+16.ObjetoDate.js
+
+17.DOM.html
+
+17.DOM.js
+
+18.DOMTraversing.html
+
+18.DOMTraversing.js
+
+19.applyBindCall.js
+
+20.FuncionesTrigonometricas.jpg
+
+20.FuncionesTrigonometricas.js
+
+21.POO(explicacion).js
+
+22.POO(clases).js
+
+23.POO(Proptypes).js
+
+24.POO(FuncionesConstructoras).js
+
+25.Destructuracion.js
+
+26.JSON.js
+
+26.JSON.json
+
+27.modulos.js
+
+28.modulos1.js
+
+29.modulos2.js
+
+30.SpreadOperator.js
+
+31.Fetch.js
+
+32.Axios.js
+
+33.formularios.html
+
+33.formularios.js
+
+34.Iteradores.js
+
+35.Sets.js
+
+36.Symbols.js
