@@ -10,11 +10,13 @@
 
 // Las variables pueden contener letras (a-z), números (0-9), el símbolo de dólar o pesito ($) y pisos o underscores (_)
 
+
 // Si bien el nombre puede contener números, la misma no puede empezar con ningún número
 
 // No pueden haber espacios en blancos
 
 // No pueden ser ninguna de las palabras reservadas de JavaScript (reserved keywords)
+
 
 // Los nombres de variable son case sensitive, es decir que se diferencian las mayúsculas de las minúsculas (“esto” no es igual a “Esto” que no es igual a “ESTO”)
 
@@ -35,7 +37,7 @@ let // mas usada
 // Puedo reasignarlas
 // No puedo redeclararlas
 
-const 
+// const numero = 2;
 
 // Tienen block scope
 // No puedo reasignarlas
@@ -53,17 +55,15 @@ const
 // para JavaScript. Existen dos tipos de scope: local y global.
 
 // Declarando variable global
-var vaso = "lleno"
+let vaso = "lleno"
 
 function beber() {
     // Declarando una variable local
-    var vaso = "vacío"
-    console.log(vaso)
+    let valor = "vacío";
+    console.log(valor);
 }
 
-console.log(vaso)
-beber()
-console.log(vaso)
+beber();
 
 //  Resultado:
 //  lleno

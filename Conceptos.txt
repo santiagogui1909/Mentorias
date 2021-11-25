@@ -1,9 +1,8 @@
 
-Html
+Html 
 
 1.Estructura base de HTML
 
-Rta:
 Doctype: 
 Html:
 Head: 
@@ -39,9 +38,6 @@ Cookies: Las cookies son un archivo pequeño que contiene información de las ac
 6.Que es el dom?
 
 
-7.Como modificar elementos del html a través del dom
-
-
 8.Cuales son los elementos multimedia en HTML ()
 
 
@@ -65,11 +61,11 @@ etiquetas:
 
 Css
 
-Introducción
-Carga de estilos CSS
-Selectores
-Comentarios
-Colores, valores
+Introducción --ya
+Carga de estilos CSS --ya
+Selectores --ya
+Comentarios --ya
+Colores, valores --ya
 Border
 Border en profundidad
 Unidades de medida
@@ -79,7 +75,6 @@ outline, text-align, text-decoration
 Display, max-width y position
 Float
 Centrar un elemento
-
 
 ---------------------------------------------------------------------------
 
@@ -93,7 +88,7 @@ JS
 
 04.operadores.js = ya
 
-04concatenacion.js
+04concatenacion.js = ya
 
 06.Arrays.js
 

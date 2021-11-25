@@ -11,6 +11,7 @@ true - false
 
 // tipo undefined
 let animal;
+// console.log(animal)
 
 // tipo null
 let auto = null;
@@ -28,10 +29,12 @@ const datos = [
     }
 ];
 
-console.log(datos);
+// console.log(datos);
 
 // array o arreglos
 let array = [1 ,"string" ,false,4 ,5];
+
+// console.log(array);
 
 
 
