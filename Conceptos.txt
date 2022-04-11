@@ -90,29 +90,27 @@ JS
 
 04concatenacion.js = ya
 
-06.Arrays.js
+06.Arrays.js =  ya
 
-07.MetodosArrays.js
+07.MetodosArrays.js = ya
 
-08.MetodosStrings.js
+08.FuncionesMatematicas.js = ya
 
-09.FuncionesMatematicas.js
+09.funciones.js = ya
 
-10.funciones.js
+10.Condicionales.js = ya
 
-11.Condicionales.js
+11.Bucles.js - iteradores = ya
 
-12.Bucles.js
+12.BreakContinueReturn.js = ya
 
-13.BreakContinueReturn.js
+13.eventos.js
 
-14.eventos.js
+14.timers.js
 
-15.timers.js
+15.ObjetoDate.js
 
-16.ObjetoDate.js
-
-17.DOM.html
+16.DOM.html
 
 17.DOM.js
 
@@ -155,8 +153,6 @@ JS
 33.formularios.html
 
 33.formularios.js
-
-34.Iteradores.js
 
 35.Sets.js
 
