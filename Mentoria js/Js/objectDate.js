@@ -1,12 +1,12 @@
 
-let hora = document.querySelector(".hora");
+// let hora = document.querySelector(".hora");
+// let fecha = new Date();
+// let valor;
 
-let valor;
 // document.querySelector(".btn").addEventListener("click",function(){
 //     enviarDatos();
 //     getFecha();
 //     volverInico();
-
 // });
 
 // const enviarDatos = () => {
@@ -22,12 +22,12 @@ let valor;
 //     console.log("volver al inicio");
 // }
 
-let tiempo = 2000;
+// let tiempo = 1000;
 
-setInterval(() => {
-    let fecha = new Date();
-    hora.innerHTML = fecha;
-},tiempo);
+// setInterval(() => {
+//     let fecha = new Date();
+//     hora.innerHTML = fecha;
+// },tiempo);
 
 // valor = fecha.getDate();
 // valor = fecha.getDay();
@@ -37,6 +37,6 @@ setInterval(() => {
 // valor = fecha.getMinutes();
 // valor = fecha.getTime();
 
-// hora.innerHTML = valor;
+// hora.innerHTML = fecha.getHours();
 
 

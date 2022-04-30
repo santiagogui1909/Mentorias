@@ -1,0 +1,4 @@
+Informacion desde un archivo .txt
+
+
+Hola MUNDO
