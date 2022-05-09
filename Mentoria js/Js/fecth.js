@@ -43,6 +43,7 @@ fetch('https://jsonplaceholder.typicode.com/users')
 })
 .then(valor => {
     datos(valor)
+    console.log(valor);
 })
 .catch((err) => {
     console.log("algo salio mal" + err)

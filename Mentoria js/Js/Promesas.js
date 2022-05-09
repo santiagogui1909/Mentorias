@@ -16,16 +16,12 @@ function cuadradoPromise(value) {
   }
   
   cuadradoPromise(0)
-    .then((obj) => {
-      //console.log(obj);
-      console.log("Inicio Promise");
-      console.log(`Promise: ${obj.value}, ${obj.result}`);
-      return cuadradoPromise(1);
-    })
+
     .then((obj) => {
       console.log(`Promise: ${obj.value}, ${obj.result}`);
       return cuadradoPromise(2);
     })
+    
     .then((obj) => {
       console.log(`Promise: ${obj.value}, ${obj.result}`);
       return cuadradoPromise(3);
